@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://inclusion.dz/sitemap-index.xml
